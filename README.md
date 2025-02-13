@@ -1,4 +1,4 @@
-# Desafio-1-projeto-2-logica-js
+# primeiro-desafio-logica-de-programacao-parte-2.
  Primeiro desafio de logica de programação parte 2
 
  1- Altere o conteúdo da tag h1 com document.querySelector e atribua o seguinte texto: Hora do Desafio.
